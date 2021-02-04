@@ -45,7 +45,7 @@
 ---
 
 <p align="center">
-<a href="https://bit.ly/2JqTOBQ">Click Me !!!
+<a href="https://bit.ly/2JqTOBQ" target="_blank">Click Me !!!
 <br>
 <img style="border-radius: 50%" src="https://avatars.githubusercontent.com/u/13046595?s=60&v=4">
 <br>
